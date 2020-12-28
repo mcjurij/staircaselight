@@ -1,2 +1,3 @@
-# staircaselight
-Staircase light with dimmer
+# Staircase Light
+Staircase light with dimmer.
+
